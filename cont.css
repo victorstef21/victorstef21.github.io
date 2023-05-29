@@ -1,0 +1,43 @@
+.container { 
+  
+  height: 40rem;
+  position: relative;
+  background-color: white;
+  margin-top: -90px;
+  margin-left: 20rem;
+  margin-right: 20rem;
+  }
+  
+  .center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  margin: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+    
+  }
+
+  .head {
+  border: 2px solid black;
+  padding: 25px;
+  background: url(caraibeannew.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+  }
+
+  .texth {
+    padding-top: 1em;
+    text-align: center;
+    margin-top: 1em;
+    font-size: 2.5em;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .pet {
+    text-align: left;
+    font-size: 1.5rem;
+  }
+  
+               
+  

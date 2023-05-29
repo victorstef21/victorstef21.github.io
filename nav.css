@@ -1,0 +1,54 @@
+body::-webkit-scrollbar{
+    display: none;
+    margin: 0;
+    width: 100%;
+    height: 100%;   
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #e5e5e5;
+    position: absolute;
+    top: 30px;
+    width: 90%;
+    margin-left: 80px;
+    text-align: center;
+}
+
+.navbar a {
+    display: inline-block;
+    color: #797266;
+    text-align: center;
+    padding: 20px 19px; 
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.navbar b {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15px; 
+}
+
+.navbar a:hover {
+    background: #2f2f2f;
+    
+}
+
+.logo-img {
+    float: left;
+    position: relative;
+    background-color: #2f2f2f;
+}
+
+.main {
+    text-align: center;
+    color: #376cea;
+    font-size: 3em;
+    padding: 36px;
+    margin-top: 30px;
+    height: auto;
+}

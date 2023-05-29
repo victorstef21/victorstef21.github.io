@@ -1,0 +1,40 @@
+.html {
+  height: 100vh;
+  width: 100vw;
+}
+.bodyfooter {
+  float: left; 
+  height: 470px;
+  min-width: 100%;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.907);
+  color: white;
+  text-align: center;
+  }
+
+  .bodyfooter1{
+  float: left;
+  text-align: center;  
+  height: 470px; 
+  min-width: 100%;
+  margin-top: 120rem;
+  margin-bottom: 0;
+  background-color: rgba(0, 0, 0, 0.907);
+  color: white;
+
+  }
+
+  .pf {
+    font-size: 3rem;
+  }
+
+  .pc {
+    font-size: 1.5rem;
+    color: rgba(175, 165, 155, 0.378);
+  }
+
+  .pr {
+    font-size: 1.5rem;
+  }
+  
+
