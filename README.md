@@ -15,5 +15,5 @@ f21/victorstef21.github.io/assets/122342928/b6a39b8a-5634-4421-b068-98a6947dc3c0
 ![maldive](https://github.com/victorstef21/victorstef21.github.io/assets/122342928/39a1e950-ea97-4a10-b6d5-9a27967a5a08)
 ![sandacontact](https://github.com/victorstef21/victorstef21.github.io/assets/122342928/0ceb1e03-4647-4a5f-83c0-15c0ae96ed2f)
 ![sandalscouple](https://github.com/victorstef21/victorstef21.github.io/assets/122342928/22377d10-5d07-4771-953a-b07b6c48174c)
-![sandlogo]
+
 ![ScubaDiversHP](https://github.com/victorstef21/victorstef21.github.io/assets/122342928/f596bc72-8973-4b72-8b39-d2ab3e04a82f)
