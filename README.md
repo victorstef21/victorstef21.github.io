@@ -4,6 +4,7 @@
 ![caraibe](https://github.com/victorstef21/victorstef21.github.io/assets/122342928/58bee641-743b-4256-a981-f11455c75d7f)
 ![caraibean](https://github.com/victorstef21/victorstef21.github.io/assets/122342928/f5de39b9-b487-4914-973d-fe50af8acca1)
 ![caraibeannew](https://github.com/victorstef21/victorstef21.github.io/assets/122342928/bb6a9ed6-bebd-4b93-93b2-44ba4dd6295b)
+![sandals-logo-blog1](https://github.com/victorstef21/victorstef21.github.io/assets/122342928/a0488ead-58ec-4580-8366-3ae2e7b2692a)
 
 ![Curacoa](https://github.com/victorstef21/victorstef21.github.io/assets/122342928/c41b38b8-fd05-4193-8ef1-81874ad8c1bb)
 f21/victorstef21.github.io/assets/122342928/b6a39b8a-5634-4421-b068-98a6947dc3c0)
